@@ -9,3 +9,7 @@ Link Github: https://github.com/Konstantina3
 Εργασία: Plan your time with a calendar
 Link εργασίας 2: https://asciinema.org/a/BRUnjcKyrIJWj2DzTR3DpVL82
 Link Github: https://github.com/Konstantina3
+
+Εργασία: Get familiar with basic commands, reading documentation and editing files
+Link εργασίας 3: https://asciinema.org/a/LhzRvF4JzifKKgextNcO8fWSl
+Link Github: https://github.com/Konstantina3
