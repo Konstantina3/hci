@@ -13,3 +13,7 @@ Link Github: https://github.com/Konstantina3
 Εργασία: Get familiar with basic commands, reading documentation and editing files
 Link εργασίας 3: https://asciinema.org/a/LhzRvF4JzifKKgextNcO8fWSl
 Link Github: https://github.com/Konstantina3
+
+Εργασία: Text editor and plug-ins for code highlighting and autocompletion
+Link εργασίας 4:  https://asciinema.org/a/y8xbDJl2sj24O7cgAnHgP8f4a
+Link Github: https://github.com/Konstantina3
