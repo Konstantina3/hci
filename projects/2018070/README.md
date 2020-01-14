@@ -19,7 +19,7 @@ Link εργασίας 4:  https://asciinema.org/a/y8xbDJl2sj24O7cgAnHgP8f4a
 Link Github: https://github.com/Konstantina3
 
 
-ΤΕΛΙΚΗ ΑΝΑΦΟΡΑ ΠΡΟΟΔΟΥ:
+ΤΕΛΙΚΗ ΚΑΙ ΕΝΔΙΑΜΕΣΗ ΑΝΑΦΟΡΑ ΠΡΟΟΔΟΥ:
 
 ΜΑΘΗΜΑ: Επικοινωνία Ανθρώπου Υπολογιστή
 ΟΝΟΜΑΤΕΠΩΝΥΜΟ: Ηλιοπούλου Κωνσταντίνα
